@@ -1,0 +1,475 @@
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1172]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     2026 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-07F30048 (this message is harmless)
+Non platform assembly: data-030A5FC8 (this message is harmless)
+Non platform assembly: data-030AA1D0 (this message is harmless)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 134.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 138.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 587.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+Platform assembly: C:\Users\DragonLady333\Desktop\USBNOW\other\MonocleMan\Monocle Man_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\DragonLady333\Desktop\USBNOW\other\MonocleMan\Monocle Man_Data\Managed\Boo.Lang.dll (this message is harmless)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 589.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 589.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SendMessage (string,object,UnityEngine.SendMessageOptions)
+  at UnityEngine.GameObject.SendMessage (System.String methodName, System.Object value) [0x00000] in <filename unknown>:0 
+  at TP_Controller.GetLocomotionInput () [0x00000] in <filename unknown>:0 
+  at TP_Controller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 589.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 589.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
